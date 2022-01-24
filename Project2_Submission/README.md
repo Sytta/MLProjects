@@ -17,9 +17,7 @@ Surprise: https://github.com/NicolasHug/Surprise
 PyFM: https://github.com/coreylynch/pyFM
 
 1. Make sure that the system has gcc and g++ compilers. If not, please do: ``` sudo apt-get install build-essential ``` in the terminal.
-2. Download the all the zip files, unzip and make sure that you have the folder structure described below.
-    test_predictions: ~~https://drive.google.com/file/d/1_K_4mr8xuKlzHDWcdz7vw5_zM5aa0kpG/view?usp=sharing~~ (no longer available) 
-    train_predictions: ~~https://drive.google.com/file/d/13NvkbL_eILzpQtDZvqnI-UTllDgAY3eV/view?usp=sharing~~ (no longer available) 
+2. ~~Download the all the zip files, unzip and make sure that you have the folder structure described below.~~ The datasets are no longer available.
 3. Make sure that you have Anaconda installed. If not, you can get the installer here: https://repo.anaconda.com/archive/
 4. Go in the folder, run ```conda env create -f MLenv.yml``` in terminal
 5. Activate the environment by running ```source activate ML``` in terminal
